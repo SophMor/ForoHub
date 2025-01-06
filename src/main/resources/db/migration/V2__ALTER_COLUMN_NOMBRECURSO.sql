@@ -1,0 +1,2 @@
+ALTER TABLE Topicos
+    ADD COLUMN nombre_curso VARCHAR(255) NOT NULL;
